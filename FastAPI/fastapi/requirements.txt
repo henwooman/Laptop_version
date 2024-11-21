@@ -1,0 +1,12 @@
+# fastapi 설치해야할 라이브러리
+
+fastapi
+uvicorn
+torch
+opencv-python
+paddleocr
+paddlepaddle
+pandas
+python-multipart
+pymysql
+sqlalchemy

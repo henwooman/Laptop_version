@@ -1,0 +1,4 @@
+npm install or npm i
+
+서버 실행 
+nodemon 파일명

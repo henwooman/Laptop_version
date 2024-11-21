@@ -1,0 +1,9 @@
+plact_ocr 
+yolov5s + paddleocr
+
+assist_device
+yolov5s 목발, 휠체어 탐지
+
+parking_object
+yolov5s 주차라인, 라바콘, 박스 탐지
+라바콘과 박스는 한번에 object class로 묶여있음

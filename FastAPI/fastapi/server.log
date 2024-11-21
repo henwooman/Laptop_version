@@ -1,0 +1,23 @@
+2024-11-20 17:44:40,286 - INFO - 업로드 요청: captured_image.jpg
+2024-11-20 17:44:40,288 - INFO - 파일 저장 완료: uploaded_videos\captured_image.jpg
+2024-11-20 17:44:40,934 - INFO - 클라우드 업로드 성공: https://kr.object.ncloudstorage.com/four-people-project/captured_image.jpg
+2024-11-20 17:44:41,658 - INFO - DB 저장 성공: captured_image.jpg
+2024-11-20 18:51:42,820 - ERROR - 모델 로드 실패: cannot instantiate 'PosixPath' on your system. Cache may be out of date, try `force_reload=True` or see https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading for help.
+2024-11-20 18:57:21,572 - ERROR - 모델 로드 실패: cannot instantiate 'PosixPath' on your system. Cache may be out of date, try `force_reload=True` or see https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading for help.
+2024-11-20 18:59:45,700 - INFO - 파일 저장 완료: uploads\captured_image.jpg
+2024-11-20 18:59:46,699 - INFO - 클라우드 업로드 성공: https://kr.object.ncloudstorage.com/four-people-project/captured_image.jpg
+2024-11-20 18:59:47,987 - INFO - DB 저장 성공: captured_image.jpg
+2024-11-20 18:59:47,988 - ERROR - 에러 발생: Object of type Tensor is not JSON serializable
+2024-11-20 20:31:10,754 - INFO - 파일 저장 완료: uploads\captured_image.jpg
+2024-11-20 20:31:11,473 - INFO - 클라우드 업로드 성공: https://kr.object.ncloudstorage.com/four-people-project/captured_image.jpg
+2024-11-20 20:31:12,092 - INFO - DB 저장 성공: captured_image.jpg
+2024-11-20 20:31:12,094 - ERROR - 에러 발생: Object of type Tensor is not JSON serializable
+2024-11-20 20:31:21,093 - INFO - 파일 저장 완료: uploads\recorded_video.mp4
+2024-11-20 20:31:21,202 - ERROR - 에러 발생: cannot identify image file 'C:\\Users\\USER\\Desktop\\laptop_LastProject\\four-people\\FastAPI\\fastapi\\uploads\\recorded_video.mp4'
+2024-11-20 20:31:54,534 - INFO - 파일 저장 완료: uploads\captured_image.jpg
+2024-11-20 20:31:54,958 - INFO - 클라우드 업로드 성공: https://kr.object.ncloudstorage.com/four-people-project/captured_image.jpg
+2024-11-20 20:31:55,182 - INFO - DB 저장 성공: captured_image.jpg
+2024-11-20 20:31:55,183 - ERROR - 에러 발생: Object of type Tensor is not JSON serializable
+2024-11-20 20:31:58,584 - INFO - 파일 저장 완료: uploads\recorded_video.mp4
+2024-11-20 20:31:58,590 - ERROR - 에러 발생: cannot identify image file 'C:\\Users\\USER\\Desktop\\laptop_LastProject\\four-people\\FastAPI\\fastapi\\uploads\\recorded_video.mp4'
+2024-11-20 21:22:36,446 - ERROR - 모델 로드 실패: [Errno 2] No such file or directory: 'models\\plate_ocr.pt'. Cache may be out of date, try `force_reload=True` or see https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading for help.

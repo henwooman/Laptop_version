@@ -1,0 +1,8 @@
+가상 환경 생성
+python -m venv venv
+
+가상 환경 활성화 (Windows)
+venv\Scripts\activate
+
+Flask 애플리케이션 실행
+python test.py
